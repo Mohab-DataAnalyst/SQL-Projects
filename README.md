@@ -3,7 +3,7 @@
 This repository serves as an index for all my SQL-related projects.
 
 - [💿 Self-Directed Chinook Database Product Analysis](https://github.com/Mohab-DataAnalyst/chinook-data-analysis)
-  -  Part of Elevvo Internship, eexplores sales and customer data to get business insights like top-selling products, revenue per region, and customer performance.
+  -  Part of Elevvo Internship, explores sales and customer data to get business insights like top-selling products, revenue per region, and customer performance.
 - [🍽️ Restaurant Orders Analysis](https://github.com/Mohab-DataAnalyst/restaurant-orders-analysis)
   - Analyzes restaurant operations, orders, and customer data to identify top-selling menu items and customer preferences. 
 - [💼 World Layoffs Data Cleaning](https://github.com/Mohab-DataAnalyst/world-layoffs-cleaning)
